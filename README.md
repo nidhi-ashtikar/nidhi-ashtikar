@@ -8,11 +8,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nidhi-ashtikar&label=Profile%20views&color=0e75b6&style=flat" alt="nidhi-ashtikar" /> </p>
 
 - 🔭 I’m currently working on **AWS and DeVops**
-- 🌱 I’m currently learning Groovy
 - 💬 Ask me about Cloud
 - 📫How to reach me ashtikarnidhi19@gmail.com
-- ⚡ Fun fact I am Funny
-
+  
 <p align="left">
 </p>
 
